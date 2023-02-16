@@ -1,10 +1,5 @@
 {
-    "name": "mb/php-mvc-core",
-    "autoload": {
-        "psr-4": {
-            "MoaazBriek\\PhpMvcCore\\": "src/"
-        }
-    },
+    "name": "moaazbriek/php-mvc-core",
     "authors": [
         {
             "name": "moaaz97",
