@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Core;
+namespace moaazbriek\phpmvc;
 
 class Request
 {

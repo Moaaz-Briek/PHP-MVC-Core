@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core;
+namespace moaazbriek\phpmvc;
 
-use app\Core\middlewares\BaseMiddleware;
+use moaazbriek\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

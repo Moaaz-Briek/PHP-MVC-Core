@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core\db;
+namespace moaazbriek\phpmvc\db;
 
-use app\Core\Application;
+use moaazbriek\phpmvc\Application;
 
 class Database
 {

@@ -6,5 +6,10 @@
             "email": "moaaz.briek97@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "moaazbriek\\phpmvc\\": "."
+        }
+    }
 }

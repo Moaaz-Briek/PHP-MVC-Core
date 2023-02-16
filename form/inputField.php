@@ -1,8 +1,8 @@
 <?php
 
-namespace app\Core\form;
+namespace moaazbriek\phpmvc\form;
 
-use app\Core\Model;
+use moaazbriek\phpmvc\Model;
 
 class inputField extends BaseField
 {
