@@ -2,7 +2,7 @@
     "name": "mb/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Mb\\PhpMvcCore\\": "src/"
+            "MoaazBriek\\PhpMvcCore\\": "src/"
         }
     },
     "authors": [
