@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace moaazbriek\phpmvc\form;
 
-use app\core\Model;
+use moaazbriek\phpmvc\Model;
 abstract class BaseField
 {
     public Model $model;

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace moaazbriek\phpmvc;
 
 abstract class Model
 {

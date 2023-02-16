@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace moaazbriek\phpmvc\db;
 
-use app\core\Application;
-use app\core\Model;
+use moaazbriek\phpmvc\Application;
+use moaazbriek\phpmvc\Model;
 
 abstract class DbModel extends Model
 {
