@@ -1,6 +1,6 @@
 <?php
 
-namespace moaazbriek\phpmvc;
+namespace app\core;
 
 class View
 {

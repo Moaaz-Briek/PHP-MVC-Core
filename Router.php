@@ -1,7 +1,7 @@
 <?php
-namespace moaazbriek\phpmvc;
+namespace app\core;
 
-use moaazbriek\phpmvc\exception\NotFoundException;
+use app\core\exception\NotFoundException;
 
 class Router
 {
