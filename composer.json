@@ -1,0 +1,15 @@
+{
+    "name": "moaazbriek/php-mvc-core",
+    "authors": [
+        {
+            "name": "moaaz97",
+            "email": "moaaz.briek97@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "moaazbriek\\phpmvc\\": "."
+        }
+    }
+}
